@@ -1,0 +1,3 @@
+Total number of records: 265
+Unique boroughs (sorted ascending): "Bronx", "Brooklyn", "EWR", "Manhattan", "N/A", "Queens", "Staten Island", "Unknown"
+Number of records for Brooklyn borough: 0
